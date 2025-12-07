@@ -3,12 +3,34 @@
     <title>blog</title>
     <link href="https://heyally.ai/blog/feed.xml" rel="self" />
     <link href="https://heyally.ai/blog" />
-    <updated>2025-12-07T15:47:31-05:00</updated>
+    <updated>2025-12-07T16:30:17-05:00</updated>
     <author>
         <name>Brian Gladu</name>
     </author>
     <id>https://heyally.ai/blog</id>
 
+    <entry>
+        <title>Ally macOS app gets native full screen mode support</title>
+        <author>
+            <name>Brian Gladu</name>
+        </author>
+        <link href="https://heyally.ai/blog/macos-full-screen-mode/"/>
+        <id>https://heyally.ai/blog/macos-full-screen-mode/</id>
+            <category term="updates"/>
+            <category term="macos"/>
+
+        <updated>2025-12-07T16:30:12-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Long periods of unbroken concentration that lead to deep focus and productivity are challenging to come by. Even though we know our best work comes from focus, it can be hard to tailor our digital workspaces since they’re often designed to divert our attention. Alerts&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Long periods of unbroken concentration that lead to deep focus and productivity are challenging to come by.</p><p>Even though we know our best work comes from focus, it can be hard to tailor our digital workspaces since they’re often designed to divert our attention. Alerts and notifications, cluttered interfacapp and document icons, and more are constantly competing for our attention. </p><p><a href="https://support.apple.com/guide/mac-help/use-apps-in-full-screen-mchl9c21d2be/mac">macOS’s full-screen mode</a> is one of best tools for giving your eyes and brain a working environment that actually helps with focus and concentration, because it hides everything but the app you’re working in. </p><p>Now Ally supports full-screen mode so you can laser focus on whatever markdown doc you’re creating or local chat you’re having. </p><p>To get started, <a href="https://apps.apple.com/us/app/ally-ai-for-life/id6752736179">download the latest version of the Ally AI app from the macOS app store</a>. </p><p>With the Ally app running, click <code>fn + f</code> or click the green circle icon in the upper left-hand corner of the app. </p><p>Now you can chat with Ally and manage your work without getting distracted. </p><p>I’ll continue looking for new ways to leverage Apple’s ecosystem to make productivity easier. If you have an idea, <a href="mailto:hi@heyally.ai">let me know</a> or <a href="https://ally.eververse.ai/">submit as a feature request</a> and I’ll add it to the community-driven roadmap. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>The state of running LLMs locally in 2026</title>
         <author>
@@ -76,7 +98,7 @@
 <li><strong>Audio experience</strong> - How does the TTS and STT experience measure up? I use OpenAI’s advanced speech mode as my comparison. </li>
 <li><strong>My overall rating</strong> - This is where I attempt to rate each of these apps based on my overall experience with it. It’s not an average of all the other scores, or a ranking by the total of the scores, or anything like that. It’s just my opinion.</li>
 </ul>
-<p>I have no personal connection to the developers of these apps and I am not using any affiliate links or benefiting financially in any way. </p><p>If you have an app you’d like to see listed here, I’d love to try it, email me at: <a href="mailto:&#98;&#x72;&#x69;&#97;&#110;&#103;&#108;&#97;&#100;&#117;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#109;">&#98;&#x72;&#x69;&#97;&#110;&#103;&#108;&#97;&#100;&#117;&#64;&#x67;&#x6d;&#x61;&#x69;&#108;&#46;&#x63;&#x6f;&#109;</a>. If you’re the developer of one of these apps and you’d like to discuss something I’ve said here, I’d love to chat! Don’t hesitate to email me. </p><h1 id="browser-based-solutions">Browser-based solutions</h1>
+<p>I have no personal connection to the developers of these apps and I am not using any affiliate links or benefiting financially in any way. </p><p>If you have an app you’d like to see listed here, I’d love to try it, email me at: <a href="mailto:&#x62;&#x72;&#x69;&#97;&#110;&#x67;&#x6c;&#97;&#100;&#117;&#64;&#x67;&#109;&#x61;&#x69;&#108;&#x2e;&#x63;&#111;&#109;">&#x62;&#x72;&#x69;&#97;&#110;&#x67;&#x6c;&#97;&#100;&#117;&#64;&#x67;&#109;&#x61;&#x69;&#108;&#x2e;&#x63;&#111;&#109;</a>. If you’re the developer of one of these apps and you’d like to discuss something I’ve said here, I’d love to chat! Don’t hesitate to email me. </p><h1 id="browser-based-solutions">Browser-based solutions</h1>
 <p>These apps can be exposed to the web or they can be locally accessed (via a browser). They often install via Docker. If you aren’t already using Docker apps, I highly recommend you dip your toe into it! It opens up a world of open source software and it really isn’t as technically challenging as it may appear. In fact, the whole point of it is to make setting up and using apps easier. That’s a topic for a different post though. </p><h2 id="openwebui"><a href="https://github.com/open-webui/open-webui">openwebui</a></h2>
 <p><a href="https://github.com/open-webui/open-webui">Github stars: 70k</a>  |  <a href="https://docs.openwebui.com/roadmap/">Roadmap</a></p><blockquote>
 <p>TL;DR: Openwebui’s standout feature is its community of user-created functions (that are used to add custom functionality). It’s popular because it’s one of the best chatbot UI’s available at the moment. </p></blockquote>
