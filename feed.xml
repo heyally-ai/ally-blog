@@ -3,7 +3,7 @@
     <title>blog</title>
     <link href="https://heyally.ai/blog/feed.xml" rel="self" />
     <link href="https://heyally.ai/blog" />
-    <updated>2025-12-08T19:41:45-05:00</updated>
+    <updated>2025-12-08T19:43:05-05:00</updated>
     <author>
         <name>Brian Gladu</name>
     </author>
@@ -22,7 +22,7 @@
         <updated>2025-12-08T17:43:37-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    One of the core goals of Ally is to make really fast and really easy to capture and store whatever you need to, when you need to. Communicating with Ally, passing things into Ally, should be frictionless and intuitive. Whether it’s a sudden moment of&hellip;
+                    One of the core goals of Ally is to make really fast and really easy to capture and store whatever you need to, when you need to. Communicating with Ally, passing things into Ally, should be frictionless and intuitive. Whether it’s a sudden moment of inspiration, a web page you want to save, or meeting notes you want to make&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -55,7 +55,7 @@
         <updated>2025-12-07T16:30:12-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Long periods of unbroken concentration, that most of us require to achieve the deep focus that leads to “deep work,” are increasingly challenging to come by. We know our best work comes from focus, but it can be challenging to tailor our digital workspaces to&hellip;
+                    Long periods of unbroken concentration, that most of us require to achieve the deep focus that leads to “deep work,” are increasingly challenging to come by. We know our best work comes from focus, but it can be challenging to tailor our digital workspaces to minimize distractions. Even on macOS, an operating system built for the desktop/laptop format, and so&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -77,7 +77,7 @@
         <updated>2025-12-07T15:40:19-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    If you’re excited to run open source LLMs like GPT-OSS, Qwen3, Gemma, Granite, etc. on your laptop or phone as a learning experience, or just for the technerdy coolness of running actual AI on your own device, you’ll have a great time. But, if you’re&hellip;
+                    If you’re excited to run open source LLMs like GPT-OSS, Qwen3, Gemma, Granite, etc. on your laptop or phone as a learning experience, or just for the technerdy coolness of running actual AI on your own device, you’ll have a great time. But, if you’re hoping it will be like having your own Claude or ChatGPT running locally, you’ll be&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -103,7 +103,7 @@
         <updated>2025-12-07T14:21:16-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                    To access the latest frontier AI models from Anthropic, OpenAI, Google, Perplexity, and Deepseek, you could pay $100 or more in monthly subscriptions. A cost-saving alternative is to use an AI chat interface — sometimes referred to as a “chatbot UI” or “LLM frontend” (there doesn’t&hellip;
+                    To access the latest frontier AI models from Anthropic, OpenAI, Google, Perplexity, and Deepseek, you could pay $100 or more in monthly subscriptions. A cost-saving alternative is to use an AI chat interface — sometimes referred to as a “chatbot UI” or “LLM frontend” (there doesn’t appear to be an agreed upon naming convention). These apps allow you to connect to&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -131,7 +131,7 @@
 <li><strong>Audio experience</strong> - How does the TTS and STT experience measure up? I use OpenAI’s advanced speech mode as my comparison. </li>
 <li><strong>My overall rating</strong> - This is where I attempt to rate each of these apps based on my overall experience with it. It’s not an average of all the other scores, or a ranking by the total of the scores, or anything like that. It’s just my opinion.</li>
 </ul>
-<p>I have no personal connection to the developers of these apps and I am not using any affiliate links or benefiting financially in any way. </p><p>If you have an app you’d like to see listed here, I’d love to try it, email me at: <a href="mailto:&#x62;&#x72;&#105;&#97;&#110;&#103;&#108;&#x61;&#100;&#117;&#64;&#x67;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#x62;&#x72;&#105;&#97;&#110;&#103;&#108;&#x61;&#100;&#117;&#64;&#x67;&#x6d;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a>. If you’re the developer of one of these apps and you’d like to discuss something I’ve said here, I’d love to chat! Don’t hesitate to email me. </p><h1 id="browser-based-solutions">Browser-based solutions</h1>
+<p>I have no personal connection to the developers of these apps and I am not using any affiliate links or benefiting financially in any way. </p><p>If you have an app you’d like to see listed here, I’d love to try it, email me at: <a href="mailto:&#x62;&#x72;&#x69;&#97;&#x6e;&#103;&#x6c;&#97;&#100;&#117;&#64;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;">&#x62;&#x72;&#x69;&#97;&#x6e;&#103;&#x6c;&#97;&#100;&#117;&#64;&#103;&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;</a>. If you’re the developer of one of these apps and you’d like to discuss something I’ve said here, I’d love to chat! Don’t hesitate to email me. </p><h1 id="browser-based-solutions">Browser-based solutions</h1>
 <p>These apps can be exposed to the web or they can be locally accessed (via a browser). They often install via Docker. If you aren’t already using Docker apps, I highly recommend you dip your toe into it! It opens up a world of open source software and it really isn’t as technically challenging as it may appear. In fact, the whole point of it is to make setting up and using apps easier. That’s a topic for a different post though. </p><h2 id="openwebui"><a href="https://github.com/open-webui/open-webui">openwebui</a></h2>
 <p><a href="https://github.com/open-webui/open-webui">Github stars: 70k</a>  |  <a href="https://docs.openwebui.com/roadmap/">Roadmap</a></p><blockquote>
 <p>TL;DR: Openwebui’s standout feature is its community of user-created functions (that are used to add custom functionality). It’s popular because it’s one of the best chatbot UI’s available at the moment. </p></blockquote>
