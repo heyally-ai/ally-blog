@@ -3,12 +3,65 @@
     <title>blog</title>
     <link href="https://heyally.ai/blog/feed.xml" rel="self" />
     <link href="https://heyally.ai/blog" />
-    <updated>2025-12-11T16:54:10-05:00</updated>
+    <updated>2025-12-11T17:17:37-05:00</updated>
     <author>
         <name>Brian Gladu</name>
     </author>
     <id>https://heyally.ai/blog</id>
 
+    <entry>
+        <title>Themes for Ally!</title>
+        <author>
+            <name>Brian Gladu</name>
+        </author>
+        <link href="https://heyally.ai/blog/themes-for-ally/"/>
+        <id>https://heyally.ai/blog/themes-for-ally/</id>
+            <category term="updates"/>
+            <category term="macos"/>
+            <category term="ios"/>
+
+        <updated>2025-12-11T17:12:21-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Now you can customize the look and feel of Ally on iOS and macOS with three themes. Newspaper theme Newspaper is a grayscale monochrome theme for people who like light themes. It has a near white background, containers and fields are shades of gray, and text is near black gray. Monochrome theme For dark theme lovers, monochrome has a near black background, dark container backgrounds, and near white text. Primary theme My personal favorite, Primary&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Now you can customize the look and feel of Ally on iOS and macOS with three themes.<br><br><strong>Newspaper theme<br></strong>Newspaper is a grayscale monochrome theme for people who like light themes. It has a near white background, containers and fields are shades of gray, and text is near black gray.<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://heyally.ai/blog/media/posts/11/Screenshot-2025-12-11-at-2.38.20-PM-1.png" height="1177" width="2071" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.38.20-PM-1-xs.png 640w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.38.20-PM-1-sm.png 768w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.38.20-PM-1-md.png 1024w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.38.20-PM-1-lg.png 1366w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.38.20-PM-1-xl.png 1600w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.38.20-PM-1-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    <b>Monochrome theme<br></b>For dark theme lovers, monochrome has a near black background, dark container backgrounds, and near white text.<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://heyally.ai/blog/media/posts/11/Screenshot-2025-12-11-at-2.48.34-PM-1.png" height="1177" width="2780" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.48.34-PM-1-xs.png 640w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.48.34-PM-1-sm.png 768w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.48.34-PM-1-md.png 1024w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.48.34-PM-1-lg.png 1366w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.48.34-PM-1-xl.png 1600w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.48.34-PM-1-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    <b>Primary theme<br></b>My personal favorite, Primary is a low contrast theme with a brown background, green highlights, a text is shades of cream-colored off whites. The theme for those who like a bit of color.<br>
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://heyally.ai/blog/media/posts/11/Screenshot-2025-12-11-at-2.29.59-PM-1-2.png" height="1177" width="1134" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.29.59-PM-1-2-xs.png 640w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.29.59-PM-1-2-sm.png 768w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.29.59-PM-1-2-md.png 1024w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.29.59-PM-1-2-lg.png 1366w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.29.59-PM-1-2-xl.png 1600w ,https://heyally.ai/blog/media/posts/11/responsive/Screenshot-2025-12-11-at-2.29.59-PM-1-2-2xl.png 1920w">
+      
+    </figure>
+
+  <p>
+    This is just the beginning... what other themes would you like to see? What fonts would you like Ally to support?&nbsp;
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>iPhone Action button shortcut support for iOS</title>
         <author>
@@ -163,7 +216,7 @@
 <li><strong>Audio experience</strong> - How does the TTS and STT experience measure up? I use OpenAI’s advanced speech mode as my comparison. </li>
 <li><strong>My overall rating</strong> - This is where I attempt to rate each of these apps based on my overall experience with it. It’s not an average of all the other scores, or a ranking by the total of the scores, or anything like that. It’s just my opinion.</li>
 </ul>
-<p>I have no personal connection to the developers of these apps and I am not using any affiliate links or benefiting financially in any way. </p><p>If you have an app you’d like to see listed here, I’d love to try it, email me at: <a href="mailto:&#x62;&#114;&#x69;&#97;&#110;&#103;&#x6c;&#x61;&#x64;&#x75;&#64;&#x67;&#109;&#x61;&#105;&#108;&#46;&#x63;&#111;&#109;">&#x62;&#114;&#x69;&#97;&#110;&#103;&#x6c;&#x61;&#x64;&#x75;&#64;&#x67;&#109;&#x61;&#105;&#108;&#46;&#x63;&#111;&#109;</a>. If you’re the developer of one of these apps and you’d like to discuss something I’ve said here, I’d love to chat! Don’t hesitate to email me. </p><h1 id="browser-based-solutions">Browser-based solutions</h1>
+<p>I have no personal connection to the developers of these apps and I am not using any affiliate links or benefiting financially in any way. </p><p>If you have an app you’d like to see listed here, I’d love to try it, email me at: <a href="mailto:&#98;&#114;&#105;&#x61;&#110;&#x67;&#108;&#x61;&#x64;&#117;&#x40;&#x67;&#109;&#97;&#x69;&#x6c;&#46;&#99;&#111;&#x6d;">&#98;&#114;&#105;&#x61;&#110;&#x67;&#108;&#x61;&#x64;&#117;&#x40;&#x67;&#109;&#97;&#x69;&#x6c;&#46;&#99;&#111;&#x6d;</a>. If you’re the developer of one of these apps and you’d like to discuss something I’ve said here, I’d love to chat! Don’t hesitate to email me. </p><h1 id="browser-based-solutions">Browser-based solutions</h1>
 <p>These apps can be exposed to the web or they can be locally accessed (via a browser). They often install via Docker. If you aren’t already using Docker apps, I highly recommend you dip your toe into it! It opens up a world of open source software and it really isn’t as technically challenging as it may appear. In fact, the whole point of it is to make setting up and using apps easier. That’s a topic for a different post though. </p><h2 id="openwebui"><a href="https://github.com/open-webui/open-webui">openwebui</a></h2>
 <p><a href="https://github.com/open-webui/open-webui">Github stars: 70k</a>  |  <a href="https://docs.openwebui.com/roadmap/">Roadmap</a></p><blockquote>
 <p>TL;DR: Openwebui’s standout feature is its community of user-created functions (that are used to add custom functionality). It’s popular because it’s one of the best chatbot UI’s available at the moment. </p></blockquote>
