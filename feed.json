@@ -14,7 +14,7 @@
             "url": "https://heyally.ai/blog/public-beta-advanced-local-llm-memory-for-ally/",
             "title": "Public beta: Advanced local LLM memory for Ally",
             "summary": "If you go into Settings &gt; AI and scroll below the list of LLMs, you’ll see a couple of new options to enable Ally’s advanced memory features: Ally is designed to learn about you over time so that it can be more helpful. Since all of this happens completely locally and privately and no data is ever shared with anyone, ever, you don’t have to worry about some creepy company using what it learns to&hellip;",
-            "content_html": "<p>If you go into Settings &gt; AI and scroll below the list of LLMs, you’ll see a couple of new options to enable Ally’s advanced memory features:</p><p>Ally is designed to learn about you over time so that it can be more helpful. Since all of this happens completely locally and privately and no data is ever shared with anyone, ever, you don’t have to worry about some creepy company using what it learns to show you ads or leaking your data, etc. </p><p>![<a href=\"http://briangladu-dropshare.s3-us-east-2.amazonaws.com/Screenshot-2026-01-09-at-1.39.24-PM.png%5D\">http://briangladu-dropshare.s3-us-east-2.amazonaws.com/Screenshot-2026-01-09-at-1.39.24-PM.png]</a></p><p>A couple of notes:</p><ul>\n<li>Turning on memory features will slow response times. It takes additional time to search memories and it also takes additional time to load the additional context.</li>\n</ul>\n",
+            "content_html": "<p>If you go into Settings &gt; AI and scroll below the list of LLMs, you’ll see a couple of new options to enable Ally’s advanced memory features:</p><p>Ally is designed to learn about you over time so that it can be more helpful. Since all of this happens completely locally and privately and no data is ever shared with anyone, ever, you don’t have to worry about some creepy company using what it learns to show you ads or leaking your data, etc. </p><figure class=\"post__image\"><img loading=\"lazy\" src=\"http://briangladu-dropshare.s3-us-east-2.amazonaws.com/Screenshot-2026-01-09-at-1.39.24-PM.png\" alt=\"\" data-is-external-image=\"true\"></figure><p>A couple of notes:</p><ul>\n<li>Turning on memory features will slow response times. It takes additional time to search memories and it also takes additional time to load the additional context.</li>\n</ul>\n",
             "author": {
                 "name": "Brian Gladu"
             },
@@ -23,7 +23,7 @@
                    "macos"
             ],
             "date_published": "2026-01-09T08:37:02-05:00",
-            "date_modified": "2026-01-09T13:41:22-05:00"
+            "date_modified": "2026-01-09T13:42:07-05:00"
         },
         {
             "id": "https://heyally.ai/blog/themes-for-ally/",

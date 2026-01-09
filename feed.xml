@@ -3,7 +3,7 @@
     <title>blog</title>
     <link href="https://heyally.ai/blog/feed.xml" rel="self" />
     <link href="https://heyally.ai/blog" />
-    <updated>2026-01-09T13:41:22-05:00</updated>
+    <updated>2026-01-09T13:42:07-05:00</updated>
     <author>
         <name>Brian Gladu</name>
     </author>
@@ -27,7 +27,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>If you go into Settings &gt; AI and scroll below the list of LLMs, you’ll see a couple of new options to enable Ally’s advanced memory features:</p><p>Ally is designed to learn about you over time so that it can be more helpful. Since all of this happens completely locally and privately and no data is ever shared with anyone, ever, you don’t have to worry about some creepy company using what it learns to show you ads or leaking your data, etc. </p><p>![<a href="http://briangladu-dropshare.s3-us-east-2.amazonaws.com/Screenshot-2026-01-09-at-1.39.24-PM.png%5D">http://briangladu-dropshare.s3-us-east-2.amazonaws.com/Screenshot-2026-01-09-at-1.39.24-PM.png]</a></p><p>A couple of notes:</p><ul>
+                <p>If you go into Settings &gt; AI and scroll below the list of LLMs, you’ll see a couple of new options to enable Ally’s advanced memory features:</p><p>Ally is designed to learn about you over time so that it can be more helpful. Since all of this happens completely locally and privately and no data is ever shared with anyone, ever, you don’t have to worry about some creepy company using what it learns to show you ads or leaking your data, etc. </p><figure class="post__image"><img loading="lazy" src="http://briangladu-dropshare.s3-us-east-2.amazonaws.com/Screenshot-2026-01-09-at-1.39.24-PM.png" alt="" data-is-external-image="true"></figure><p>A couple of notes:</p><ul>
 <li>Turning on memory features will slow response times. It takes additional time to search memories and it also takes additional time to load the additional context.</li>
 </ul>
 
