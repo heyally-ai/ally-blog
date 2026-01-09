@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://heyally.ai/blog/public-beta-advanced-local-llm-memory-for-ally/",
+            "url": "https://heyally.ai/blog/public-beta-advanced-local-llm-memory-for-ally/",
+            "title": "Public beta: Advanced local LLM memory for Ally",
+            "summary": "If you go into Settings &gt; AI and scroll below the list of LLMs, you’ll see a couple of newe options: A couple of notes: Turning on memory features will slow response times. It takes additional time to search memories and it also takes additional time to load the additional context.",
+            "content_html": "<p>If you go into Settings &gt; AI and scroll below the list of LLMs, you’ll see a couple of newe options:</p><p>A couple of notes:</p><ul>\n<li>Turning on memory features will slow response times. It takes additional time to search memories and it also takes additional time to load the additional context.</li>\n</ul>\n",
+            "author": {
+                "name": "Brian Gladu"
+            },
+            "tags": [
+                   "updates",
+                   "macos"
+            ],
+            "date_published": "2026-01-09T08:37:02-05:00",
+            "date_modified": "2026-01-09T08:37:02-05:00"
+        },
+        {
             "id": "https://heyally.ai/blog/themes-for-ally/",
             "url": "https://heyally.ai/blog/themes-for-ally/",
             "title": "Themes for Ally!",

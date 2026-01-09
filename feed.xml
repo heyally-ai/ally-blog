@@ -3,12 +3,37 @@
     <title>blog</title>
     <link href="https://heyally.ai/blog/feed.xml" rel="self" />
     <link href="https://heyally.ai/blog" />
-    <updated>2025-12-18T16:02:25-05:00</updated>
+    <updated>2026-01-09T08:37:02-05:00</updated>
     <author>
         <name>Brian Gladu</name>
     </author>
     <id>https://heyally.ai/blog</id>
 
+    <entry>
+        <title>Public beta: Advanced local LLM memory for Ally</title>
+        <author>
+            <name>Brian Gladu</name>
+        </author>
+        <link href="https://heyally.ai/blog/public-beta-advanced-local-llm-memory-for-ally/"/>
+        <id>https://heyally.ai/blog/public-beta-advanced-local-llm-memory-for-ally/</id>
+            <category term="updates"/>
+            <category term="macos"/>
+
+        <updated>2026-01-09T08:37:02-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    If you go into Settings &gt; AI and scroll below the list of LLMs, you’ll see a couple of newe options: A couple of notes: Turning on memory features will slow response times. It takes additional time to search memories and it also takes additional time to load the additional context.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>If you go into Settings &gt; AI and scroll below the list of LLMs, you’ll see a couple of newe options:</p><p>A couple of notes:</p><ul>
+<li>Turning on memory features will slow response times. It takes additional time to search memories and it also takes additional time to load the additional context.</li>
+</ul>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Themes for Ally!</title>
         <author>
