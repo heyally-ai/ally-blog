@@ -3,12 +3,56 @@
     <title>blog</title>
     <link href="https://heyally.ai/blog/feed.xml" rel="self" />
     <link href="https://heyally.ai/blog" />
-    <updated>2026-01-09T13:47:28-05:00</updated>
+    <updated>2026-01-10T19:01:22-05:00</updated>
     <author>
         <name>Brian Gladu</name>
     </author>
     <id>https://heyally.ai/blog</id>
 
+    <entry>
+        <title>New: Ally Web Clipper browser extension for Safari on iOS and macOS</title>
+        <author>
+            <name>Brian Gladu</name>
+        </author>
+        <link href="https://heyally.ai/blog/new-ally-web-clipper-browser-extension-for-safari-on-ios-and-macos/"/>
+        <id>https://heyally.ai/blog/new-ally-web-clipper-browser-extension-for-safari-on-ios-and-macos/</id>
+            <category term="updates"/>
+            <category term="macos"/>
+            <category term="ios"/>
+
+        <updated>2026-01-10T19:00:04-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    To create a PKM and personal productivity system that actually works, one that you stick with over the long-term because it works for you and your life, it needs to be easy to add information to it. Really easy. Because if it’s not easy, you won’t do it. Neither will I. Friction kills productivity. Throughout the day, there’s all kinds of information we should, need to, or want to save. Dates, reminders, random ideas, shopping&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>To create a PKM and personal productivity system that actually works, one that you stick with over the long-term because it works for you and your life, it needs to be easy to add information to it. Really easy. Because if it’s not easy, you won’t do it. Neither will I. Friction kills productivity. </p><p>Throughout the day, there’s all kinds of information we should, need to, or want to save. Dates, reminders, random ideas, shopping lists, etc. To assist you, your PKM or productivity system needs these updates in as close to real-time as possible, so it stays in sync with your life.</p><p>Often, we come across web content — the perfect Reddit post, a great tutorial, a must try recipe — that we want to save for later. We may want to make sure we add it to our “read it later” reading list. Or catalog it into our recipe archive so we can put it into rotation for family meals. </p><p>If we bookmark it, it might disappear and we have yet another place to check for information we need contributing to that frustrating “I know it’s somewhere…” phenomena that often ends with Googling for it again, defeating the purpose of bookmarking or having a PKM solution.</p><p>Now, saving web content is easy. </p><h2 id="introducing-the-ally-web-clipper-safari-extension">Introducing the Ally web clipper Safari extension</h2>
+<h3 id="strip-advertisements--clutter">Strip advertisements &amp; clutter</h3>
+<p>The Ally web slipper automatically removes all the ads and complex formatting that plague modern websites so when you read it later, you can focus on the content. Read in <a href="https://heyally.ai/blog/macos-full-screen-mode/">Ally’s Full Screen mode</a> for ultimate focus and immersion.</p><h3 id="permanent-save--accessible-files">Permanent save &amp; accessible files</h3>
+<p>With a single click, you can archive a permanent copy of whatever web page you’re on as a Markdown file. If the website disappears, if the article is put behind a paywall, or if you don’t have access to the internet, you’ll still have an archived copy of the web content you need. </p><h3 id="add-notes-for-context">Add notes for context</h3>
+<p>Add notes before saving the page so you’ll understand why you thought it was important later. Your future self will thank you. You can also add tags to automatically place it in your Library.</p><h3 id="custom-keyboard-shortcuts">Custom keyboard shortcuts</h3>
+<p>Configure whatever keyboard shortcut you want for the fastest save possible. No reason to touch a mouse.</p><h3 id="automatic-processing">Automatic processing</h3>
+<p>Your web clippings and web content are automatically processed into vector embeddings and relationships between concepts and data are added to knowledge graph so you can be sure that the content you saved is easily surfaced when you need it. This also means that every web page you archive adds to Ally’s knowledge, so it’s more capable of assisting you with whatever you’re working on.</p><p>One click and it is added to your Inbox. That means you have a permanent copy that’s yours forever. If Reddit removes the post, if the website goes down, etc the data is now yours. The data is immediately chunked and vectorized. Each vector is analyzed for relationships to pre-existing data to form a knowledge graph of interrelated information.</p><p>This means with a single click you’ll store a copy of that information in markdown, turn it into searchable vector embedding, and add it to an evolving knowledge graph so your Ally can retrieve that information when it’s useful and relevant.</p><h2 id="how-to-install-the-safari-browser-web-clipper-extension-on-macos">How to install the Safari browser web clipper extension on macOS</h2>
+<p>The Ally Web Clipper browser extension for macOS and iOS Safari is automatically included when you download the apps from the App Store. You don’t need to download anything additional after you’ve downloaded the apps. </p><ol>
+<li>Download and install Ally</li>
+<li>Open Safari</li>
+<li>Go to <code>Settings &gt; Extensions</code></li>
+<li>Activate the Ally Web Clipper extension by clicking the box next to it</li>
+</ol>
+<h2 id="using-the-web-clipper">Using the web clipper</h2>
+<p>There are a two ways you can use the web clipper extension to save content:</p><h3 id="clicking-the-ally-icon-in-the-toolbar">Clicking the Ally icon in the toolbar</h3>
+<ol>
+<li>Click the icon that appears next to the Safari address bar. </li>
+<li>A dropdown will appear that gives you the option to add any notes. This is a good idea if you often find yourself wondering why you saved something when you find it later. </li>
+<li>Click <code>Save to Ally</code> and it will automatically appear in your Unified Inbox</li>
+</ol>
+<h3 id="with-configurable-keyboard-shortcuts">With configurable keyboard shortcuts</h3>
+<p>The quickest way to save web content is with a keyboard shortcut that bypasses the “add notes” step. When you use the keyboard shortcut, the web page is instantly saved and archived. </p><p>See the help doc on the Ally Web Clipper for more detailed information on <a href="https://heyally.ai/docs/getting-started/set-up-web-clipper">setting up and using the web clipper browser extension</a> to save web pages.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Public beta: Advanced local LLM memory for Ally</title>
         <author>
