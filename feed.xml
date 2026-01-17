@@ -3,7 +3,7 @@
     <title>blog</title>
     <link href="https://heyally.ai/blog/feed.xml" rel="self" />
     <link href="https://heyally.ai/blog" />
-    <updated>2026-01-17T15:25:15-05:00</updated>
+    <updated>2026-01-17T16:19:36-05:00</updated>
     <author>
         <name>Brian Gladu</name>
     </author>
@@ -74,6 +74,38 @@
             <![CDATA[
                 <p>Ally features a <a href="https://heyally.ai/features/local-llm">fully local LLM and chat experience</a> similar to what’s offered by Ollama or Osauraus. </p><p>But, Ally is so much more than just a local LLM server and basic chat. It’s designed to learn about you over time so that it can be more helpful. Since all of this happens completely locally and privately, and no data is ever shared with anyone, ever, you don’t have to worry about some creepy company using what it learns to show you ads or leaking your data, etc. </p><p>Ally isn’t just doing basic RAG or semantic search. I’ve invested heavily into creating a sophisticated context system that allows Ally to not just recall, but understand the relationships between concepts and information. Multiple layers of context are added to help Ally understand not only what you’re working on at this very moment, but also how it fits into the bigger picture. </p><p>These two new memory features are two additional layers on top of Ally’s unique Shared Context feature. </p><p>Now, as you chat with Ally, it automatically stores key facts and information. This works very similar to the automatic memory features of ChatGPT and Claude. </p><p>As you work, your notes are automatically converted into vector embeddings so they can be searched. Then, your chats and notes are automatically processed into an evolving knowledge graph that stores how information is related.</p><p>All of this means Ally does more than just store and retain information, it understands your life by combining context from many sources. </p><h2 id="how-to-turn-on-the-advanced-memory-and-context-features-beta">How to turn on the advanced memory and context features beta:</h2>
 <p>Starting with macOS v1.3.3, if you go into <code>Settings &gt; AI</code> and scroll below the list of LLMs, you’ll see a couple of new options to enable Ally’s advanced memory features:</p><figure class="post__image"><img loading="lazy" src="http://briangladu-dropshare.s3-us-east-2.amazonaws.com/Screenshot-2026-01-09-at-1.39.24-PM.png" alt="image" data-is-external-image="true"></figure><p>Please note that turning on memory features will slow response times. It takes additional time to search memories and it also takes additional time to load the additional context. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Meeting transcription and AI note takers for macOS (2026)</title>
+        <author>
+            <name>Brian Gladu</name>
+        </author>
+        <link href="https://heyally.ai/blog/macos-ai-note-takers-comparison/"/>
+        <id>https://heyally.ai/blog/macos-ai-note-takers-comparison/</id>
+            <category term="productivity"/>
+            <category term="macos"/>
+
+        <updated>2026-01-08T12:47:47-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    A comparison of the three best macOS meeting transcription apps Granola, Ally, and Slipbox are all amazing apps for busy professionals who have a lot of online meetings. At first glance, they all appear very similar. This article highlights some of the similarities and differences so you can make an informed decision on which app to choose. Pricing: $14/month Granola is a bot-free AI note taker which means there won’t be any bot attendees on&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1 id="a-comparison-of-the-three-best-macos-meeting-transcription-apps">A comparison of the three best macOS meeting transcription apps</h1>
+<p>Granola, Ally, and Slipbox are all amazing apps for busy professionals who have a lot of online meetings. </p><p>At first glance, they all appear very similar. This article highlights some of the similarities and differences so you can make an informed decision on which app to choose. </p><h2 id="granola"><a href="https://www.granola.ai"  class="extlink extlink-icon-1"  >Granola</a></h2>
+<p><strong>Pricing: $14/month</strong></p><p>Granola is a bot-free AI note taker which means there won’t be any bot attendees on your call making things awkward. </p><p>Granola uses a React-based frontend so you won’t get true native performance, but it’s better than a full React wrapper. </p><p>Granola is praised for it’s high quality summaries. </p><p>It’s sometimes criticized for not being able to replay recordings (it transcribes in real-time but there’s no audio playback if you want to replay a section of a meeting). It’s also criticized for being weak on speaker identification. </p><p>It’s also not capable of long-term context which means that it won’t be able to relate information from one meeting to another or bring past understanding into the current meeting. </p><h2 id="ally-ai-note-taker--transcriber"><a href="https://heyally.ai/features/quick-capture/transcriber">Ally AI Note Taker &amp; Transcriber</a></h2>
+<p><strong>Pricing: Free and unlimited</strong></p><p>Ally is a free macOS AI note taker for meetings. It’s a native SwiftUI app so you get true native performance. It’s also bot-free so no extra meeting attendees. For its AI features, it uses on device STT models for transcription and on device LLM models for its agentic processes like meeting summaries and pulling action items out of voice notes and creating tasks.</p><p>Ally emphasizes “Quick Capture” which is basically making getting things recorded as frictionless as possible. To that end, you can start recordings from:</p><ul>
+<li>The <a href="https://heyally.ai/blog/ios-action-button/">iOS app and your phone’s Action button</a> (you don’t even need to unlock your phone to capture a voice note!)</li>
+<li>The notch so you can start a recording no matter app you’re using at the time to quickly get a thought out of your head or, great for meetings, you can start a recording without ever breaking eye contact with whoever you’re meeting with.</li>
+<li>Global, customizable keyboard shortcuts. If you’re a keyboard warrior, you can set up whatever keyboard shortcut you want to start and stop recordings for transcription.</li>
+</ul>
+<p>Where Ally really shines is on the <a href="https://heyally.ai/features/local-llm">intelligence and memory</a> side of things. While Granola’s weakness may be context, it’s Ally’s strength. Ally features a robust, sophisticated, multi-layered context engine that includes a knowledge graph to understand how data is related and connected, key fact storage, semantic and vector search of past meetings, notes, and conversations, and more. This means Ally “knows” the bigger picture and how everything relates. This means it isn’t just looking at one isolated meeting, it’s connecting information across everything it knows to assist you. </p><h2 id="slipboxai"><a href="https://www.slipbox.ai/"  class="extlink extlink-icon-1"  >Slipbox.ai</a></h2>
+<p><strong>Pricing: $99/year</strong></p><p>Like Ally, Slipbox is local only and privacy-first. And, like Granola and Ally, it’s a bot-free recorder. Also like Granola and Ally, you can chat with your transcripts so you don’t have to keep scanning a transcript to access key info. </p><p>Slipbox offers an Obsidian integration. Ally offers this as well via export locations. Granola has a Granola Sync Obsidian plugin. </p><p>While Granola relies heavily on cloud processing, a major downside for anyone who needs to protect company or customer data, Slipbox, like Ally, is 100% on device and fully private. </p><p>Slipbox’s standout feature is that it stores voice fingerprints for more accurate speaker diarization. </p><h1 id="which-ai-meeting-note-taker-is-best-for-you">Which AI meeting note taker is best for you?</h1>
+<p>While all three of these are amazing apps, <a href="https://heyally.ai/features/markdown-editor">Ally’s integrated Markdown editor</a> means you work with your data right then and there and your meeting assistant has access to all of your notes, past transcripts, and conversations as context so it becomes a true “working partner” rather than just a transcriber. </p>
             ]]>
         </content>
     </entry>
