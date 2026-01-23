@@ -3,7 +3,7 @@
     <title>blog</title>
     <link href="https://heyally.ai/blog/feed.xml" rel="self" />
     <link href="https://heyally.ai/blog" />
-    <updated>2026-01-23T15:17:58-05:00</updated>
+    <updated>2026-01-23T15:22:52-05:00</updated>
     <author>
         <name>Brian Gladu</name>
     </author>
@@ -29,7 +29,7 @@
         <content type="html">
             <![CDATA[
                 <p>This is a really exciting update because it gets Ally much closer to the vision of being “local AI that doesn’t suck.” The focus of this update is building a strong performance foundation and adding early agentic capabilities.</p><h3 id="improved-massive-context-engine-improvements">Improved: Massive context engine improvements</h3>
-<p>A key product focus for Ally is its sophisticated context engine. The goal is for Ally to excel at “needle in a haystack” and other RAG/research benchmarks. The idea is that if the information exists in your Ally database, it <em>will</em> be found when needed. </p><p>Early progress is incredible, Ally already features one of the top-performing and most sophisticated RAG implementations in the business, including web-based and local solutions. And, performance will only improve over time. This update includes:</p><ul>
+<p>A key product focus for Ally is its sophisticated context engine. The goal is for Ally to excel at “needle in a haystack” and other RAG/research benchmarks. The idea is that if the information exists in your Ally database, it <em>will</em> be found when needed. </p><p>Early progress is incredible, Ally already features one of the most sophisticated RAG implementations possible, and performance will only improve over time. This update includes:</p><ul>
 <li><strong>Parallel search tool for agents</strong> - In pursuit of the goal to shave every possible millisecond of latency off chat requests, we’ve parallelized search across multiple context providers. Basically, this means that rather than doing a BM25 search, a graph search, etc sequentially, they can happen concurrently in a single call that also includes search variations. These context sources are then combined with a Reciprocal Rank Fusion (RRF) algorithm. All of this means Ally can find what it needs faster and respond to you sooner with the answer. </li>
 <li><strong>Intelligent chunking</strong> - Not everything should be chunked the same and you may want to be able to view a document at different resolutions depending on what you’re looking for and why. Ally is now set up to intelligently handle documenting chunking during processing and retrieval without increasing database storage size. </li>
 <li><strong>Graph memory improvements</strong> - Added new entity types and optimized threshold and parameter values for more useful connections and faster graph traversal for quicker response times.</li>
